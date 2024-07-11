@@ -1,7 +1,7 @@
 import React from "react";
 
-const Prodcut = () => {
+const Product = () => {
   return <div></div>;
 };
 
-export default Prodcut;
+export default Product;
